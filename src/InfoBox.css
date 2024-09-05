@@ -1,0 +1,16 @@
+.CardContainer{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.InfoBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+ 
